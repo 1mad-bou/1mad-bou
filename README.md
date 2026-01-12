@@ -38,7 +38,7 @@ class Hacker:
 🔭 Student at    1337/42 School
 🌱 Learning      CS && Ethical Hacking
 💬 Ask about     Python, Linux, Web Security
-⚡ Fun fact      I break things to learn how they work
+⚡ Fun fact       I break things to learn how they work
 ```
 
 ---
